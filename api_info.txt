@@ -1,0 +1,42 @@
+{
+    "coord":{
+        "lon":88.6,"lat":24.3667
+    },
+    "weather":[{
+        "id":804,
+        "main":"Clouds",
+        "description":"overcast clouds",
+        "icon":"04d"
+    }],
+    "base":"stations",
+    "main":{
+        "temp":304.75,
+        "feels_like":302.62,
+        "temp_min":304.75,
+        "temp_max":304.75,
+        "pressure":1012,
+        "humidity":19,
+        "sea_level":1012,
+        "grnd_level":1010
+    },
+    "visibility":10000,
+    "wind":
+    {
+        "speed":1.48,
+        "deg":332,
+        "gust":2.27
+    },
+    "clouds":{
+        "all":89
+    },
+    "dt":1613639473,
+    "sys":{
+        "country":"BD",
+        "sunrise":1613608643,
+        "sunset":1613649720
+    },
+    "timezone":21600,
+    "id":1185128,
+    "name":"Rajshahi",
+    "cod":200
+}
